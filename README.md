@@ -34,5 +34,5 @@ An interactive Power BI dashboard created for the fictional chocolate brand **Ca
 - Evaluation context in DAX
 - Year-on-Year calculations
 - KPI creation and condit
-## ![CaramelNova Power BI Dashboard](https://github.com/PoojaDagadkhair/CaramelNova-Chocolate-Power-BI-Dashboard/blob/main/Dashboard.png)
+
 

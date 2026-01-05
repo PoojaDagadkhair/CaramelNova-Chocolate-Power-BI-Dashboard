@@ -3,8 +3,8 @@
 ## Description
 An interactive Power BI dashboard created for the fictional chocolate brand **CaramelNova** to analyze sales, profit, shipments, products, regions, and salesperson performance. This project demonstrates strong skills in data modeling, DAX, and report design.
 
----
-![Dashboard Preview] (https://github.com/PoojaDagadkhair/CaramelNova-Chocolate-Power-BI-Dashboard/blob/main/Dashboard.png)
+---<img width="1411" height="752" alt="Dashboard" src="https://github.com/user-attachments/assets/3d5fc16f-5053-4bf2-bf58-641866cf5b79" />
+
 
 ## Dashboard Highlights
 - Total Sales, Total Profit, Profit %
